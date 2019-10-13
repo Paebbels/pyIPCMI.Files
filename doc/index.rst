@@ -1,7 +1,7 @@
 pyIPCMI.Parser.Files Documentation
 ###########################
 
-A parser for ``*.rules`` files used in `pyIPCMI <https://github.com/Paebbels/pyIPCMI>`_.
+A parser for ``*.files`` files used in `pyIPCMI <https://github.com/Paebbels/pyIPCMI>`_.
 
 
 Installation/Updates
